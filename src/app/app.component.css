@@ -1,0 +1,12 @@
+/* .custom-file-input .custom-file-control:lang(ru)::after {
+    content: "Выбрать";
+} */
+
+.custom-file-label::after {
+    content: '...' !important;
+}
+
+
+/* #customFileArea {
+    width: 50%;
+} */
