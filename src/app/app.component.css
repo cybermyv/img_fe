@@ -6,7 +6,11 @@
     content: '...' !important;
 }
 
+li {
+    display: inline;
+    /* border: 1px solid #eee; */
+}
 
-/* #customFileArea {
-    width: 50%;
-} */
+li:hover {
+    background-color: #f8f9fa;
+}
